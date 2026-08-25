@@ -309,9 +309,9 @@ All practical screenshots are stored in the `Screenshot/` directory.
 ## 📁 Lab Files
 
 ```text
-`CCNA-Lab-02-Inter-Network-Routing-ARP.pkt` — Cisco Packet Tracer lab file
-`README.md` — Lab documentation
-`Screenshot/`  — Practical screenshots and evidence
+CCNA-Lab-02-Inter-Network-Routing-ARP.pkt — Cisco Packet Tracer lab file
+README.md — Lab documentation
+Screenshot/  — Practical screenshots and evidence
 ```
 
 \---
