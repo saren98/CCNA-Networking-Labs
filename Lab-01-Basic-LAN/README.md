@@ -272,6 +272,14 @@ Displays the switch MAC address table.
 
 ---
 
+## 📁 Lab Files
+
+- `README.md` — Lab documentation
+- `LAB-1.pkt` — Cisco Packet Tracer lab file
+- `Screenshot/` — Practical screenshots and evidence
+
+---
+
 ## ✅ Lab Result
 
 The lab successfully demonstrated:
