@@ -244,39 +244,39 @@ All practical screenshots are stored in the `Screenshot/` directory.
 
 ### 1\. Network Topology
 
-!\[Network Topology](Screenshot/01-lab-topology.png)
+![Network Topology](Screenshot/01-lab-topology.png)
 
 ### 2\. Ping Connectivity
 
-!\[Ping Connectivity](Screenshot/02-ping-connectivity.png)
+![Ping Connectivity](Screenshot/02-ping-connectivity.png)
 
 ### 3\. Router IP Routing Table
 
-!\[Router IP Route](Screenshot/03-router-ip-route.png)
+![Router IP Route](Screenshot/03-router-ip-route.png)
 
 ### 4\. Traceroute Verification
 
-!\[Traceroute](Screenshot/04-tracert-success.png)
+![Traceroute](Screenshot/04-tracert-success.png)
 
 ### 5\. Switch0 MAC Address Table
 
-!\[Switch0 MAC Table](Screenshot/05-switch0-mac-table.png)
+![Switch0 MAC Table](Screenshot/05-switch0-mac-table.png)
 
 ### 6\. Switch1 MAC Address Table
 
-!\[Switch1 MAC Table](Screenshot/06-switch1-mac-table.png)
+![Switch1 MAC Table](Screenshot/06-switch1-mac-table.png)
 
 ### 7\. PC0 ARP Table Cleared
 
-!\[ARP Table Clear](Screenshot/07-pc0-arp-table-clear.png)
+![ARP Table Clear](Screenshot/07-pc0-arp-table-clear.png)
 
 ### 8\. ARP Request Broadcast
 
-!\[ARP Request](Screenshot/08-arp-request-router-inbound.png)
+![ARP Request](Screenshot/08-arp-request-router-inbound.png)
 
 ### 9\. ARP Reply
 
-!\[ARP Reply](Screenshot/09-arp-reply.png)
+![ARP Reply](Screenshot/09-arp-reply.png)
 
 \---
 
