@@ -309,7 +309,7 @@ All practical screenshots are stored in the `Screenshot/` directory.
 ## 📁 Lab Files
 
 ```text
-LAB-02.pkt
+CCNA-Lab-02-Inter-Network-Routing-ARP.pkt
 README.md
 Screenshot/
 ```
