@@ -298,6 +298,6 @@ The lab successfully demonstrated:
 
 ## 👤 Author
 
-**Sagen**
+**Sagen Saren**
 
 CCNA Networking Labs & Practical Documentation
