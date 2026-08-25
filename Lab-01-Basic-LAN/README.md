@@ -255,13 +255,20 @@ Displays the switch MAC address table.
 
 ## 📸 Lab Evidence
 
-The following screenshots are included as evidence:
+### 1. Network Topology
+![Network Topology](Screenshot/01-topology.png)
 
-1. Network topology
-2. Successful ping test
-3. Switch MAC address table
-4. Empty ARP table
-5. ARP flooding in Simulation Mode
+### 2. Successful Ping Test
+![Ping Success](Screenshot/02-ping-success.png)
+
+### 3. Switch MAC Address Table
+![MAC Address Table](Screenshot/03-mac-address-table.png)
+
+### 4. Empty ARP Table
+![Empty ARP Table](Screenshot/04-empty-arp-table.png)
+
+### 5. ARP Flooding in Simulation Mode
+![ARP Flooding](Screenshot/05-arp-flooding.png)
 
 ---
 
