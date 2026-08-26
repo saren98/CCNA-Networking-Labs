@@ -272,6 +272,12 @@ Displays the switch MAC address table.
 
 ---
 
+## 🛠️ Software Used
+
+- Cisco Packet Tracer
+
+---
+
 ## 📁 Lab Files
 
 ```text
