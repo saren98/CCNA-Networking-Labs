@@ -274,9 +274,19 @@ Displays the switch MAC address table.
 
 ## 📁 Lab Files
 
-- `README.md` — Lab documentation
-- `LAB-1.pkt` — Cisco Packet Tracer lab file
-- `Screenshot/` — Practical screenshots and evidence
+```text
+Lab-01-Basic-LAN/
+│
+├── LAB-1.pkt
+├── README.md
+│
+└── Screenshot/
+    ├── 01-topology.png
+    ├── 02-ping-success.png
+    ├── 03-mac-address-table.png
+    ├── 04-empty-arp-table.png
+    └── 05-arp-flooding.png
+```
 
 ---
 
