@@ -309,9 +309,21 @@ All practical screenshots are stored in the `Screenshot/` directory.
 ## 📁 Lab Files
 
 ```text
-CCNA-Lab-02-Inter-Network-Routing-ARP.pkt — Cisco Packet Tracer lab file
-README.md — Lab documentation
-Screenshot/  — Practical screenshots and evidence
+Lab-02-Inter-Network-Routing/
+│
+├── CCNA-Lab-02-Inter-Network-Routing-ARP.pkt
+├── README.md
+│
+└── Screenshot/
+    ├── 01-lab-topology.png
+    ├── 02-ping-connectivity.png
+    ├── 03-router-ip-route.png
+    ├── 04-tracert-success.png
+    ├── 05-switch0-mac-table.png
+    ├── 06-switch1-mac-table.png
+    ├── 07-PC0-arp-table-clear.png
+    ├── 08-arp-request-router-inbound.png
+    └── 09-arp-reply.png
 ```
 
 \---
