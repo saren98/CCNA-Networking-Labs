@@ -170,24 +170,26 @@ The ping was successful, confirming that Router1 was successfully routing traffi
 Communication path:
 
 ```text
-PC0
-(VLAN 10)
-    |
-    v
-Switch0
-    |
-    | Trunk
-    v
-Router1
-G0/0.10 → G0/0.20
-    |
-    | Trunk
-    v
-Switch0
-    |
-    v
-PC1
-(VLAN 20)
+PC0 (VLAN 10)
+      |
+      v
+   Switch0
+      |
+      | Trunk (VLAN 10 tagged)
+      v
+   Router1
+   G0/0.10
+      |
+      | Routing
+      v
+   G0/0.20
+      |
+      | Trunk (VLAN 20 tagged)
+      v
+   Switch0
+      |
+      v
+PC1 (VLAN 20)
 ```
 
 ---
