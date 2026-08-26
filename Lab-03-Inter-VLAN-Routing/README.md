@@ -230,17 +230,37 @@ Both subinterfaces were operational and configured with the correct IP addresses
 
 ## 📸 Lab Evidence
 
-All practical screenshots are stored in the `Screenshot/` directory.
+### 1. Network Topology
 
-1. **01-lab-topology.png** — Complete network topology
-2. **02-vlan-creation-and-port-assignment.png** — VLAN creation and switch port assignment
-3. **03-vlan-separation-test.png** — Communication failure between VLANs before routing
-4. **04-router-subinterface-configuration.png** — Router-on-a-Stick subinterface configuration
-5. **05-switch-trunk-verification.png** — Switch trunk verification
-6. **06-inter-vlan-routing-success.png** — Successful communication between VLAN 10 and VLAN 20
-7. **07-tracert-inter-vlan-routing.png** — Packet path verification using traceroute
-8. **08-router-subinterface-verification.png** — Router subinterface status verification
+![Network Topology](Screenshot/01-lab-topology.png)
 
+### 2. VLAN Creation and Port Assignment
+
+![VLAN Creation and Port Assignment](Screenshot/02-vlan-creation-and-port-assignment.png)
+
+### 3. VLAN Separation Test
+
+![VLAN Separation Test](Screenshot/03-vlan-separation-test.png)
+
+### 4. Router Subinterface Configuration
+
+![Router Subinterface Configuration](Screenshot/04-router-subinterface-configuration.png)
+
+### 5. Switch Trunk Verification
+
+![Switch Trunk Verification](Screenshot/05-switch-trunk-verification.png)
+
+### 6. Inter-VLAN Routing Success
+
+![Inter-VLAN Routing Success](Screenshot/06-inter-vlan-routing-success.png)
+
+### 7. Traceroute Inter-VLAN Routing
+
+![Traceroute Inter-VLAN Routing](Screenshot/07-tracert-inter-vlan-routing.png)
+
+### 8. Router Subinterface Verification
+
+![Router Subinterface Verification](Screenshot/08-router-subinterface-verification.png)
 ---
 
 ## 🧠 Key Concepts Learned
