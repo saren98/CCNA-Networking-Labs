@@ -56,7 +56,7 @@ Switch1
 PC1
 ```
 
-![Network Topology](Screenshot/01-network-topology.png)
+![Network Topology](Screenshot/01_Network_Topology.png)
 
 ---
 
@@ -73,11 +73,11 @@ PC1
 
 ### PC0 Configuration
 
-![PC0 IP Configuration](Screenshot/02-pc0-ip-configuration.png)
+![PC0 IP Configuration](Screenshot/02_PC0_IP_Configuration.png)
 
 ### PC1 Configuration
 
-![PC1 IP Configuration](Screenshot/03-pc1-ip-configuration.png)
+![PC1 IP Configuration](Screenshot/03_PC1_IP_Configuration.png)
 
 ---
 
@@ -175,7 +175,7 @@ C 10.0.0.0/30
 S 192.168.2.0/24 via 10.0.0.2
 ```
 
-![Router0 Routing Table](Screenshot/04-router0-routing-table.png)
+![Router0 Routing Table](Screenshot/04_Router0_Routing_Table.png)
 
 The `S` indicates a manually configured **Static Route**.
 
