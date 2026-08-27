@@ -268,7 +268,7 @@ All practical screenshots are stored in the `Screenshot/` directory.
 ```text
 Lab-04-Static-Routing/
 │
-├── LAB-04.pkt
+├── Static routing.pkt
 ├── README.md
 │
 └── Screenshot/
