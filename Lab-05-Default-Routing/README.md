@@ -317,7 +317,7 @@ The successful `tracert` demonstrated that the packet travelled through both rou
 
 ## 📁 Lab Files
 
-```text
+
 Lab-05-Default-Routing/
 │
 ├── Lab-05-Default-Routing.pkt
@@ -361,5 +361,4 @@ The practical verified:
 
 **Sagen Saren**
 
-```
 
