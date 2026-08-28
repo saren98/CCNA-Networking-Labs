@@ -33,7 +33,6 @@ The connectivity was then verified using `ping` and `tracert`.
 
 ## 🖥️ Network Topology
 
-```text
 PC0
  |
 Switch0
