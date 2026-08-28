@@ -337,7 +337,7 @@ Lab-05-Default-Routing/
 ```
 
 ---
-
+```text
 ## ✅ Lab Result
 
 The lab successfully demonstrated **Default Routing between two different networks**.
@@ -361,4 +361,4 @@ The practical verified:
 
 **Sagen Saren**
 
-
+```
