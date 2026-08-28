@@ -362,7 +362,7 @@ The practical verified:
 
 **Sagen Saren**
 
-```
+CCNA Networking Labs \& Practical Documentation
 
-এটাই **copy → paste → `README.md` → Commit** করতে পারো। ✅
-```
+
+
