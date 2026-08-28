@@ -33,6 +33,7 @@ The connectivity was then verified using `ping` and `tracert`.
 
 ## 🖥️ Network Topology
 
+
 PC0
  |
 Switch0
@@ -317,7 +318,7 @@ The successful `tracert` demonstrated that the packet travelled through both rou
 
 ## 📁 Lab Files
 
-
+```text
 Lab-05-Default-Routing/
 │
 ├── Lab-05-Default-Routing.pkt
@@ -337,7 +338,7 @@ Lab-05-Default-Routing/
 ```
 
 ---
-```text
+
 ## ✅ Lab Result
 
 The lab successfully demonstrated **Default Routing between two different networks**.
@@ -361,4 +362,7 @@ The practical verified:
 
 **Sagen Saren**
 
+```
+
+এটাই **copy → paste → `README.md` → Commit** করতে পারো। ✅
 ```
