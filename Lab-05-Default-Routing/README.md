@@ -33,7 +33,7 @@ The connectivity was then verified using `ping` and `tracert`.
 
 ## 🖥️ Network Topology
 
-
+```text
 PC0
  |
 Switch0
@@ -51,7 +51,7 @@ Router1
 Switch1
  |
 PC1
-
+```
 ---
 
 ## 🌐 IP Addressing
