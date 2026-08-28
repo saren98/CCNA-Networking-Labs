@@ -1,4 +1,3 @@
-````md
 # CCNA Lab 05 — Default Routing
 
 ## 📌 Lab Overview
@@ -52,7 +51,6 @@ Router1
 Switch1
  |
 PC1
-````
 
 ---
 
