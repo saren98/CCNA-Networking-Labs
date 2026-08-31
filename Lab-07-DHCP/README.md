@@ -330,6 +330,4 @@ The DHCP configuration was verified using DHCP binding and connectivity testing.
 
 **Sagen Saren**
 
-**3.** Screenshot folder-এর ৫টা file-এর নাম README-র মতো আছে কিনা মিলিয়ে নেবে।
-
-তারপর আমাকে বলবে **`.pkt` আর screenshots upload হয়ে গেছে কিনা**—আমি exact commit message দিয়ে দেব।
+CCNA Networking Labs \& Practical Documentation
