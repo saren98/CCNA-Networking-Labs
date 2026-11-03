@@ -27,7 +27,7 @@ The topology contains:
 
 **Topology:** Inside PCs → Switch0 → Router0 → Router1 → Server0
 
-![NAT and PAT Lab Topology](01-nat-topology.png)
+![NAT and PAT Lab Topology](Screenshot/01-nat-topology.png)
 
 ## IP Addressing
 
@@ -155,45 +155,45 @@ Evidence: `09-connectivity-verification.png`
 
 ## 1. Network Topology
 
-![NAT and PAT Lab Topology](01-nat-topology.png)
+![NAT and PAT Lab Topology](Screenshot/01-nat-topology.png)
 
 ## 2. Router IP Configuration
 
 ### Router0
 
-![Router0 IP Configuration](02-router0-ip-configuration.png)
+![Router0 IP Configuration](Screenshot/02-router0-ip-configuration.png)
 
 ### Router1
 
-![Router1 IP Configuration](03-router1-ip-configuration.png)
+![Router1 IP Configuration](Screenshot/03-router1-ip-configuration.png)
 
 ## 3. Static NAT
 
-![Static NAT Translation](04-static-nat-translation.png)
+![Static NAT Translation](Screenshot/04-static-nat-translation.png)
 
 ## 4. Dynamic NAT
 
 ### Configuration
 
-![Dynamic NAT Configuration](05-dynamic-nat-configuration.png)
+![Dynamic NAT Configuration](Screenshot/05-dynamic-nat-configuration.png)
 
 ### Translation Verification
 
-![Dynamic NAT Translation](06-dynamic-nat-translation.png)
+![Dynamic NAT Translation](Screenshot/06-dynamic-nat-translation.png)
 
 ## 5. PAT — NAT Overload
 
 ### Configuration
 
-![PAT Configuration](07-pat-configuration.png)
+![PAT Configuration](Screenshot/07-pat-configuration.png)
 
 ### Translation Table
 
-![PAT Translation Table](08-pat-translation-table.png)
+![PAT Translation Table](Screenshot/08-pat-translation-table.png)
 
 ## 6. Connectivity Verification
 
-![Connectivity Verification](09-connectivity-verification.png)
+![Connectivity Verification](Screenshot/09-connectivity-verification.png)
 
 
 ## Troubleshooting Notes
