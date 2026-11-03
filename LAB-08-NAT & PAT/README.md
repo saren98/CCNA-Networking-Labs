@@ -225,4 +225,5 @@ The screenshots demonstrate NAT/PAT configuration attempts, translation output, 
 ## Author
 
 **Sagen Saren**
+
 CCNA Networking Labs \& Practical Documentation
